@@ -1,1 +1,3 @@
-0x00-python_variable_annotations
+# 0x00-python_variable_annotations
+## Overview
+This directory contains Python scripts that demonstrate the usage of variable annotations in Python. Variable annotations were introduced in Python 3.6 and provide a way to specify the type of variables in Python code. These annotations are primarily used for type hinting, improving code readability, and enabling static analysis tools to catch potential errors.
