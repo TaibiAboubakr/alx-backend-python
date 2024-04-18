@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """ floor a floar number """
 import math
