@@ -5,8 +5,8 @@ from typing import List
 from typing import Union
 
 
-def sum_mixed_list(int_float_list: List[Union[float, int]]) -> float:
+def sum_mixed_list(mxd_lst: List[Union[float, int]]) -> float:
     """  takes a list mxd_lst of integers and floats
     returns their sum as a float """
-    n = sum(map(float, int_float_list))
+    n = sum(map(float, mxd_lst))
     return n
